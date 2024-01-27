@@ -1,0 +1,14 @@
+D:\TreinamentoC#\DicionariodeAluno\DicionariodeAluno\bin\Debug\net7.0\DicionariodeAluno.exe
+D:\TreinamentoC#\DicionariodeAluno\DicionariodeAluno\bin\Debug\net7.0\DicionariodeAluno.deps.json
+D:\TreinamentoC#\DicionariodeAluno\DicionariodeAluno\bin\Debug\net7.0\DicionariodeAluno.runtimeconfig.json
+D:\TreinamentoC#\DicionariodeAluno\DicionariodeAluno\bin\Debug\net7.0\DicionariodeAluno.dll
+D:\TreinamentoC#\DicionariodeAluno\DicionariodeAluno\bin\Debug\net7.0\DicionariodeAluno.pdb
+D:\TreinamentoC#\DicionariodeAluno\DicionariodeAluno\obj\Debug\net7.0\DicionariodeAluno.GeneratedMSBuildEditorConfig.editorconfig
+D:\TreinamentoC#\DicionariodeAluno\DicionariodeAluno\obj\Debug\net7.0\DicionariodeAluno.AssemblyInfoInputs.cache
+D:\TreinamentoC#\DicionariodeAluno\DicionariodeAluno\obj\Debug\net7.0\DicionariodeAluno.AssemblyInfo.cs
+D:\TreinamentoC#\DicionariodeAluno\DicionariodeAluno\obj\Debug\net7.0\DicionariodeAluno.csproj.CoreCompileInputs.cache
+D:\TreinamentoC#\DicionariodeAluno\DicionariodeAluno\obj\Debug\net7.0\DicionariodeAluno.dll
+D:\TreinamentoC#\DicionariodeAluno\DicionariodeAluno\obj\Debug\net7.0\refint\DicionariodeAluno.dll
+D:\TreinamentoC#\DicionariodeAluno\DicionariodeAluno\obj\Debug\net7.0\DicionariodeAluno.pdb
+D:\TreinamentoC#\DicionariodeAluno\DicionariodeAluno\obj\Debug\net7.0\DicionariodeAluno.genruntimeconfig.cache
+D:\TreinamentoC#\DicionariodeAluno\DicionariodeAluno\obj\Debug\net7.0\ref\DicionariodeAluno.dll
